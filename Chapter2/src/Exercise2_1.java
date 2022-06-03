@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class ConvertorCelsiusToFahrenheit {
-    public ConvertorCelsiusToFahrenheit() {
+public class Exercise2_1 {
+    public Exercise2_1() {
     }
 
     public static void main(String[] args) {
