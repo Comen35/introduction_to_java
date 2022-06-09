@@ -32,7 +32,8 @@ is 932, the sum of all its digits is 14.
 ## Exercise 2.7 Find the number of years
 - Write a program that promps the user to enter the minutes and display the maximum number of years and remaining days for the minutes. For simplicity, assume that a year has 365 days.
 
-
+## Exercise 2.8 Current Time
+- Write a program that promps the user to enter the time zone offset to GMT and displays the time in the specified zone.
 
 
 
