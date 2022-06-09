@@ -23,8 +23,7 @@ public class Exercise2_8 {
         
 
         System.out.println("The current time is " + currentHour + ":" + currentMinutes + ":" +currentSecond);
-
-
-
+        
+        input.close();
     }
 }
