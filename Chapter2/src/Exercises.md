@@ -29,6 +29,9 @@ use enters 10 for subtotal and 15% for gratuity rate, the program display $1.5 a
 - Write a program that reads an integer between 0 and 1000 and adds all the digits in the integer. For example, if an integer
 is 932, the sum of all its digits is 14.
 
+## Exercise 2.7 Find the number of years
+- Write a program that promps the user to enter the minutes and display the maximum number of years and remaining days for the minutes. For simplicity, assume that a year has 365 days.
+
 
 
 
