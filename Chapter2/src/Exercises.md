@@ -21,5 +21,16 @@ formulas:
 - Write a program that converts pounds into kilograms. The program prompts the user to enter a number in pounds, converts
 it to kilograms, and displays the result. One pound is 0.454 kilogram.
 
+## Exercise 2.5 Financial application: calculate tips)
+- Write a program that reads the subtotal and the gratuity rate, then computes the gratuity and total. For example, if the 
+use enters 10 for subtotal and 15% for gratuity rate, the program display $1.5 as gratuity and $11.5 as total.
+
+## Exercise 2.6 Sum the digits in an integer
+- Write a program that reads an integer between 0 and 1000 and adds all the digits in the integer. For example, if an integer
+is 932, the sum of all its digits is 14.
+
+
+
+
 
  
