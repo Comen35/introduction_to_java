@@ -13,7 +13,8 @@ public class Exercise2_7 {
         days = (minutes % MINUTES_IN_A_YEAR) / (24 * 60);
 
         System.out.println(minutes + " minutes is approximately " + years + "years and " + days + " days");
-        
+
+        input.close();  
 
 
     }
