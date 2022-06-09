@@ -10,5 +10,8 @@ public class Exercise2_1 {
         double celsius = input.nextDouble();
         double fahrenheit = 1.8 * celsius + 32.0;
         System.out.println("" + celsius + " Celsius is " + fahrenheit + " Fahrenheit");
+
+        input.close();
     }
 }
+
